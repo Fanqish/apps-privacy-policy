@@ -1,4 +1,4 @@
-**Privacy Policy**
+**My Soundboard App Privacy Policy**
 
 Fanqish built the My Soundboard app as a Free app. This SERVICE is provided by Fanqish at no cost and is intended for use as is.
 
