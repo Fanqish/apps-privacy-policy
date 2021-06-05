@@ -61,3 +61,6 @@ This policy is effective as of 2021-04-29
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at admin@fanqish.com.
+
+**All Rights Reseved To [Sounds Api](https://www.myinstants.com/)  **
+
