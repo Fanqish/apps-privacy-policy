@@ -1,12 +1,12 @@
-**My Soundboard App Privacy Policy**
+**Privacy Policy**
 
-Fanqish built the My Soundboard app as a Free app. This SERVICE is provided by Fanqish at no cost and is intended for use as is.
+Fanqish built the Mysoundboard app as a Free app. This SERVICE is provided by Fanqish at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at My Soundboard unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Mysoundboard unless otherwise defined in this Privacy Policy.
 
 **Information Collection and Use**
 
@@ -16,8 +16,9 @@ The app does use third party services that may collect information used to ident
 
 Link to privacy policy of third party service providers used by the app
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Google Play Services](https://www.google.com/policies/privacy/)
+- [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+- [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Log Data**
 
@@ -33,10 +34,10 @@ This Service does not use these “cookies” explicitly. However, the app may u
 
 We may employ third-party companies and individuals due to the following reasons:
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+- To facilitate our Service;
+- To provide the Service on our behalf;
+- To perform Service-related services; or
+- To assist us in analyzing how our Service is used.
 
 We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
@@ -56,11 +57,8 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-04-29
+This policy is effective as of 2021-09-09
 
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at admin@fanqish.com.
-
-**All Rights Reseved To [Sounds Api](https://www.myinstants.com/)  **
-
